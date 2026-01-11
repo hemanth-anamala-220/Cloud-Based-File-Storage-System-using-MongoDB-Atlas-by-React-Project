@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { LogOut, Search } from 'lucide-react';
 import './App.css';
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://cloud-based-file-storage-system-using.onrender.com';
 
 // Auth Context
 const AuthContext = React.createContext(null);
